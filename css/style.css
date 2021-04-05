@@ -486,6 +486,10 @@ hr {
 }
 
 @media (max-width: 1100px) {
+  html,
+  body {
+    overflow-x: hidden !important ;
+  }
   .container-fluid {
     padding: 5% 10%;
   }
@@ -498,6 +502,10 @@ hr {
 }
 
 @media (max-width: 990px) {
+  html,
+  body {
+    overflow-x: hidden !important ;
+  }
   .container-fluid {
     padding: 6% 8%;
   }
@@ -527,6 +535,10 @@ hr {
 }
 
 @media (max-width: 860px) {
+  html,
+  body {
+    overflow-x: hidden !important ;
+  }
   .btn {
     font-size: 0.8rem;
   }
