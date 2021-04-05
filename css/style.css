@@ -527,10 +527,6 @@ hr {
 }
 
 @media (max-width: 860px) {
-  html,
-  body {
-    overflow-x: hidden !important ;
-  }
   .btn {
     font-size: 0.8rem;
   }
