@@ -523,6 +523,10 @@ hr {
 }
 
 @media (max-width: 860px) {
+  html,
+  body {
+    overflow-x: hidden !important ;
+  }
   .btn {
     font-size: 0.8rem;
   }
@@ -549,6 +553,10 @@ hr {
 }
 
 @media (max-width: 420px) {
+  html,
+  body {
+    overflow-x: hidden !important ;
+  }
   .btn {
     font-size: 0.8rem;
   }
