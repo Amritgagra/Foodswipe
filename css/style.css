@@ -557,6 +557,8 @@ hr {
   html,
   body {
     overflow-x: hidden !important ;
+    width: 100%;
+    height: 100%;
   }
   .btn {
     font-size: 0.8rem;
